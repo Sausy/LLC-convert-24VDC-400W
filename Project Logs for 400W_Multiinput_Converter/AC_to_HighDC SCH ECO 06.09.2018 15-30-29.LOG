@@ -1,0 +1,68 @@
+Removed Parameter MaxVoltage:300VAC from Part C23
+Removed Parameter MaxVoltage:300VAC from Part C24
+Removed Parameter MaxVoltage:300VAC from Part C?
+Removed Parameter MaxVoltage:300VAC from Part C?
+Removed Parameter Style:Radial from Part C21
+Removed Parameter Style:Radial from Part C22
+Removed Parameter Supplier 1:Digi-Key from Part C18
+Removed Parameter Supplier 1:Digi-Key from Part C21
+Removed Parameter Supplier 1:Digi-Key from Part C21
+Removed Parameter Supplier 1:Digi-Key from Part C22
+Removed Parameter Supplier 1:Digi-Key from Part C23
+Removed Parameter Supplier 1:Digi-Key from Part C24
+Removed Parameter Supplier 1:Digi-Key from Part C?
+Removed Parameter Supplier 1:Digi-Key from Part C?
+Removed Parameter Supplier 1:Digi-Key from Part D5
+Removed Parameter Supplier 1:Digi-Key from Part J?
+Removed Parameter Supplier 1:Digi-Key from Part R29
+Removed Parameter Supplier 1:Digi-Key from Part R31
+Removed Parameter Supplier 1:Digi-Key from Part R33
+Removed Parameter Supplier 1:Digi-Key from Part R34
+Removed Parameter Supplier 1:Digi-Key from Part R35
+Removed Parameter Supplier Part Number 1:490-2436-1-ND from Part R35
+Removed Parameter Supplier Part Number 1:490-9469-ND from Part C23
+Removed Parameter Supplier Part Number 1:490-9469-ND from Part C24
+Removed Parameter Supplier Part Number 1:490-9469-ND from Part C?
+Removed Parameter Supplier Part Number 1:490-9469-ND from Part C?
+Removed Parameter Supplier Part Number 1:493-2703-ND from Part C18
+Removed Parameter Supplier Part Number 1:493-2703-ND from Part C21
+Removed Parameter Supplier Part Number 1:541-220KFDKR-ND from Part R31
+Removed Parameter Supplier Part Number 1:541-220KFDKR-ND from Part R34
+Removed Parameter Supplier Part Number 1:ECQ-U2A224KL-ND from Part C21
+Removed Parameter Supplier Part Number 1:ECQ-U2A224KL-ND from Part C22
+Removed Parameter Supplier Part Number 1:GBU8JFS-ND from Part D5
+Removed Parameter Supplier Part Number 1:P470KGDKR-ND from Part R29
+Removed Parameter Supplier Part Number 1:P470KGDKR-ND from Part R33
+Removed Parameter Type:Varistor from Part R32
+Change Value of Parameter Value in Part C18 Old=680uF-200V New=100pF
+Change Value of Parameter Value in Part C21 Old=470nF New=100pF
+Change Value of Parameter Value in Part C21 Old=680uF-200V New=100pF
+Change Value of Parameter Value in Part C22 Old=220nF New=100pF
+Change Value of Parameter Value in Part C24 Old=220pF New=100pF
+Change Value of Parameter Value in Part C? Old=220pF New=100pF
+Change Component Parameter Comment in J? Old= New=Res Adj2
+Change Component Parameter Description in J? Old=6.3A New=Variable Resistor
+Change Value of Parameter Value in Part J? Old=2 New=1K
+Change Value of Parameter Value in Part R29 Old=470k New=1K
+Change Value of Parameter Value in Part R31 Old=220k New=1K
+Change Component Parameter Comment in R32 Old= New=Res2
+Change Value of Parameter Value in Part R32 Old=100meg New=1K
+Change Value of Parameter Value in Part R33 Old=470k New=1K
+Change Value of Parameter Value in Part R34 Old=220k New=1K
+Change Value of Parameter Value in Part R35 Old=10k New=1K
+Replace Symbol from C18 Cap Pol2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap Pol2 from Miscellaneous Devices.IntLib
+Replace Symbol from C21 Cap in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Symbol from C21 Cap Pol2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap Pol2 from Miscellaneous Devices.IntLib
+Replace Symbol from C22 Cap in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Symbol from C23 Cap in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Symbol from C24 Cap in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Symbol from C? Cap in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Symbol from C? Cap in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Symbol from D5 Bridge1 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Bridge1 from Miscellaneous Devices.IntLib
+Replace Symbol from J? Res Adj2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Res Adj2 from Miscellaneous Devices.IntLib
+Replace Symbol from R29 Res2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Symbol from R31 Res2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Symbol from R32 Res2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Symbol from R33 Res2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Symbol from R34 Res2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Symbol from R35 Res2 in C:\Users\Micha\OneDrive\Project\P&E\400W design\AC_to_HighDC.SchDoc with Res2 from Miscellaneous Devices.IntLib
